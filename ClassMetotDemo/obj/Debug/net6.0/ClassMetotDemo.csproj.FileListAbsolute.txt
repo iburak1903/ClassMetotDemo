@@ -1,0 +1,15 @@
+D:\yazılım\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.csproj.AssemblyReference.cache
+D:\yazılım\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.AssemblyInfoInputs.cache
+D:\yazılım\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.AssemblyInfo.cs
+D:\yazılım\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.csproj.CoreCompileInputs.cache
+D:\yazılım\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.exe
+D:\yazılım\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.deps.json
+D:\yazılım\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.runtimeconfig.json
+D:\yazılım\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.dll
+D:\yazılım\ClassMetotDemo\bin\Debug\net6.0\ref\ClassMetotDemo.dll
+D:\yazılım\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.pdb
+D:\yazılım\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.dll
+D:\yazılım\ClassMetotDemo\obj\Debug\net6.0\ref\ClassMetotDemo.dll
+D:\yazılım\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.pdb
+D:\yazılım\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.genruntimeconfig.cache
